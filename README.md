@@ -9,7 +9,7 @@
 * KULLANIM
 * NOT: ADIM ADIM GİDİN ATMALA YAPMAYIN SONRA HATA YAPTIM DERSİNİZ.
 
-<h6>EĞLENECE VE EĞİTİM AMAÇLIDIR YASADIŞI KULLANIMDA SORUMLULUK KABUL EDİLMEZ</h6>
+<h6>EĞİTİM AMAÇLIDIR YASADIŞI KULLANIMDA SORUMLULUK KABUL EDİLMEZ</h6>
 
 ## RAT ANA UYGULAMASI 
 Arkadaşlar verdiğim linkten indirin sadece apk olarak kalsın telefonda telefona kurmayın ve çalıştırmayın!
@@ -44,9 +44,14 @@ işaret içine aldığım şey tokendir yani API key
 * gelen ekrandan decode all files kısmına basın <a href="https://hizliresim.com/er2lq06"><img src="https://i.hizliresim.com/er2lq06.jpg" alt="ff"></a>
 * bastıktan sonra açılan pencereden files kısmına basın <a href="https://hizliresim.com/l8a9j2d"><img src="https://i.hizliresim.com/l8a9j2d.jpg" alt="ff"></a>
 * bu ekranda assets klasörüne girin <a href="https://hizliresim.com/2mb9y2y"><img src="https://i.hizliresim.com/2mb9y2y.jpg" alt="ff"></a>
-* bu kısım en önemli 1. kısım ilk olarak id.txt dosyasına basıyoruz <a href="https://hizliresim.com/tlq2yg5"><img src="https://i.hizliresim.com/tlq2yg5.jpg" alt="ff"></a> sonrasında gelen ekranda gördüğümüz ıdyi silip user info botan aldığımız ıdyi yapıştırıp kayıt ediyoruz <a href="https://hizliresim.com/e6euep0"><img src="https://i.hizliresim.com/e6euep0.jpg" alt="ff"></a> kayıt ettikten sonra geri geliyoruz.
+* bu kısım en önemli 1. kısım ilk olarak id.txt dosyasına basıyoruz <a href="https://hizliresim.com/tlq2yg5"><img src="https://i.hizliresim.com/tlq2yg5.jpg" alt="ff"></a> sonrasında gelen ekranda gördüğümüz ıdyi `-` ile beraber silip user info botan aldığımız ıdyi yapıştırıp kayıt ediyoruz <a href="https://hizliresim.com/e6euep0"><img src="https://i.hizliresim.com/e6euep0.jpg" alt="ff"></a> kayıt ettikten sonra geri geliyoruz.
 * şimdi token.txt kısmına giriyoruz <a href="https://hizliresim.com/sfx6suq"><img src="https://i.hizliresim.com/sfx6suq.jpg" alt="ff"></a> bastıktan sonra gelen ekranda gördüğümüz tokeni silip botFatherden aldığımız API keyi yani tokeni yapıştırıp kayıt ediyoruz. <a href="https://hizliresim.com/e0ppw39"><img src="https://i.hizliresim.com/e0ppw39.jpg" alt="ff"></a> kayıt ettikten sonra geri geliyoruz.
 * geri geldikten sonra sağ üstteki anahtar simgesine basıyoruz ve biraz bekliyoruz. <a href="https://hizliresim.com/d4lqvh4"><img src="https://i.hizliresim.com/d4lqvh4.jpg" alt="ff"></a>
 * sonrasında gelen ekranda install yapıyoruz. <a href="https://hizliresim.com/moh3uek"><img src="https://i.hizliresim.com/moh3uek.jpg" alt="ff"></a> ve bitti ratımız hazır.
 
 ## KULLANIM & TEST
+* ilk olarak uygulamayı açın gördüğünüz ekranda en alta start butonuna tıklayın <a href="https://hizliresim.com/c6ssxas"><img src="https://i.hizliresim.com/c6ssxas.jpg" alt="ff"></a>
+* gelen ekranda istenen izinleri verin <a href="https://hizliresim.com/dcwp6gv"><img src="https://i.hizliresim.com/dcwp6gv.jpg" alt="ff"></a> <a href="https://hizliresim.com/227pnvp"><img src="https://i.hizliresim.com/227pnvp.jpg" alt="ff"></a>
+* şimdi açılan pencerede key kısmına rastgele bir şey girip giriş yap butonuna tıklayın ve telegram botunuzu kontrol edin fotoğraflar gelmeye başlamalı
+* durdurmak için uygulama hakkında kısmından tüm verileri temizle & tümünü temizle yapın
+<h3>bundan sonra uygulamayı paylaşabilirsiniz</h3>
