@@ -52,6 +52,6 @@ işaret içine aldığım şey tokendir yani API key
 ## KULLANIM & TEST
 * ilk olarak uygulamayı açın gördüğünüz ekranda en alta start butonuna tıklayın <a href="https://hizliresim.com/c6ssxas"><img src="https://i.hizliresim.com/c6ssxas.jpg" alt="ff"></a>
 * gelen ekranda istenen izinleri verin <a href="https://hizliresim.com/dcwp6gv"><img src="https://i.hizliresim.com/dcwp6gv.jpg" alt="ff"></a> <a href="https://hizliresim.com/227pnvp"><img src="https://i.hizliresim.com/227pnvp.jpg" alt="ff"></a>
-* şimdi açılan pencerede key kısmına rastgele bir şey girip giriş yap butonuna tıklayın ve telegram botunuzu kontrol edin fotoğraflar gelmeye başlamalı
+* şimdi açılan pencerede key kısmına rastgele bir şey girip giriş yap butonuna tıklayın <a href="https://hizliresim.com/pvyuxo2"><img src="https://i.hizliresim.com/pvyuxo2.jpg" alt="ff"></a> ve telegram botunuzu kontrol edin fotoğraflar gelmeye başlamalı
 * durdurmak için uygulama hakkında kısmından tüm verileri temizle & tümünü temizle yapın
 <h3>bundan sonra uygulamayı paylaşabilirsiniz</h3>
